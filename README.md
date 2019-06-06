@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/amankrsingh2012/amankrsingh2012/_apis/build/status/divyan01.pipelines-java?branchName=master)](https://dev.azure.com/amankrsingh2012/amankrsingh2012/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
